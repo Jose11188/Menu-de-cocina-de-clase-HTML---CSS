@@ -1,0 +1,19 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: #B85C38;
+}
+.imagen{
+    margin: auto;
+    width: 300px;
+}
+img{
+    width: 300px;
+}
+body{
+    margin: 0; /* quita el espacio blanco del navegador */
+    background: linear-gradient(to right, #fff8e7, #fceabb);
+    color: #222; /* color del texto */
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
